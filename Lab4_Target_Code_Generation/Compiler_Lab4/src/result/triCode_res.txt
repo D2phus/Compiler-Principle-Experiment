@@ -1,0 +1,6 @@
+-	a	b	newTemp1
+-	a	c	newTemp2
++	newTemp1	newTemp2	newTemp3
+-	a	c	newTemp4
++	newTemp3	newTemp4	newTemp5
+assign	newTemp5	null	d

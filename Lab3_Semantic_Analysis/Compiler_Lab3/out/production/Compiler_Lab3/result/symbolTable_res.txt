@@ -1,0 +1,9 @@
+b		变量		int		0		null
+c		变量		int		4		null
+d		变量		int		8		null
+x		变量		int		12		null
+y		变量		float		16		null
+z		变量		boolean		20		null
+w		变量		char		21		null
+intArray		数组		int		23		2$3$4$
+charArray		数组		char		71		1$5$

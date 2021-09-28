@@ -1,0 +1,4 @@
+int [3][4] z;
+float [2][5] y;
+int x;int b;int c;int d;
+x = (-b)*(c+d);

@@ -1,0 +1,4 @@
+minus		b		null		newTemp1
++		c		d		newTemp2
+*		newTemp1		newTemp2		newTemp3
+assign		newTemp3		null		x

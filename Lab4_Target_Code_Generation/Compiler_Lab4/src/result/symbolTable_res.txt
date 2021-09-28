@@ -1,0 +1,4 @@
+a	变量	int	0	null
+b	变量	int	4	null
+c	变量	int	8	null
+d	变量	int	12	null

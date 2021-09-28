@@ -1,0 +1,23 @@
+int int_test1 = 10;
+while (int_test1 != 100)
+{
+	int_test1+=1;
+}
+int int_test2[10];
+float float_test1 = 11.9;
+float float_test2 = 1.19e-10;
+float float_test3 = 1.19E-10;
+float float_err1 = 1.;
+float float_err2 = 1.1.1
+float float_err3 = 1.19e;
+if(float_test1 <= float_test2){
+	return float_test1;
+}
+else{
+	return float_test2;
+}
+char char_test1 = 'a';
+char char_test2 = '\t';
+char char_err1 = '\n
+String string_test1 = "latex\n";
+String string_err1 = "latex\n;

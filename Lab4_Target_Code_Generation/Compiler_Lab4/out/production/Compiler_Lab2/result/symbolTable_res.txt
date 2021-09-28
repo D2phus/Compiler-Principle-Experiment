@@ -1,0 +1,6 @@
+b		null		null		0		null
+z		数组		int		0		2$3$4$
+y		数组		float		48		2$2$5$
+x		变量		int		88		null
+c		变量		int		92		null
+d		变量		int		96		null

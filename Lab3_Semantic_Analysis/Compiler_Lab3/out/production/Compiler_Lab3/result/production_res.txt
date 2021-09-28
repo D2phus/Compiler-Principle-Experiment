@@ -1,0 +1,64 @@
+sentence 1:
+D -> INT
+C ->
+T -> D C
+S' -> T ID
+sentence 2:
+D -> INT
+C ->
+T -> D C
+S' -> T ID
+sentence 3:
+D -> INT
+C ->
+T -> D C
+S' -> T ID
+sentence 4:
+D -> INT
+C ->
+T -> D C
+S' -> T ID
+sentence 5:
+D -> FLOAT
+C ->
+T -> D C
+S' -> T ID
+sentence 6:
+D -> BOOLEAN
+C ->
+T -> D C
+S' -> T ID
+sentence 7:
+D -> CHAR
+C ->
+T -> D C
+S' -> T ID
+sentence 8:
+B -> ID
+A -> - B
+S -> A
+B -> ( S )
+A -> B
+B -> ID
+A -> B
+S -> A
+B -> ID
+A -> B
+S -> S + A
+B -> ( S )
+A -> A * B
+S -> A
+S' -> ID = S
+sentence 9:
+D -> INT
+C ->
+C -> [ CONST_INT ] C
+C -> [ CONST_INT ] C
+T -> D C
+S' -> T ID
+sentence 10:
+D -> CHAR
+C ->
+C -> [ CONST_INT ] C
+T -> D C
+S' -> T ID

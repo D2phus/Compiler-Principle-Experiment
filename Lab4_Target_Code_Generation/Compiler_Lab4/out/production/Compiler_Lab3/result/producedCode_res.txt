@@ -1,0 +1,3 @@
+MOV AX,a
+SUB AX,b
+ADD AX,newTemp2

@@ -1,0 +1,4 @@
+int b;int c;int d;int x;float y;boolean z;char w;
+x = (-b)*(c+d);
+int[3][4] intArray;
+char[5] charArray;

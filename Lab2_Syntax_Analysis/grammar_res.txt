@@ -1,0 +1,28 @@
+sentence 1:
+S' -> INT ID
+sentence 2:
+B -> ID
+A -> B
+S -> A
+B -> CONST_INT
+A -> B
+B -> ID
+A -> A * B
+S -> S + A
+B -> ID
+A -> B
+S -> A
+B -> CONST_INT
+A -> B
+S -> S + A
+B -> ( S )
+A -> B
+S -> S + A
+S' -> ID = S
+sentence 3:
+B -> ID
+A -> B
+B -> ID
+A -> A * B
+S -> A
+S' -> ID = S
